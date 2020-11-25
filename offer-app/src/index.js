@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+//antd ui库
 import 'antd-mobile/dist/antd-mobile.css';
+//适配插件
+// import 'lib-flexible';
 // import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

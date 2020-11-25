@@ -1,7 +1,6 @@
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 
 //路由
- //eslint disable next line
 import Home from './pages/home/home'   //首页
 import Detail from './pages/detail/detail'  //详情
 import Login from './pages/login/login.jsx'  //登录(注册是子组件)
